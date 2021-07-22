@@ -1,6 +1,11 @@
 ### Alberson Ferreira Barbosa 👋 :thumbsup: :notes: :dog: :computer:
 
 Aprender sempre! O novo me move. Ter a oportunidade de sugerir um novo processo e isso mudar a vida, um processo organizacional, impactando diretamente em cada indivíduo, isso é o meu objetivo, faço isso com orgulho.
+
+<b>LinkedIn:</b> https://www.linkedin.com/in/albersonfbarbosa/ <br>
+<b>Meddium:</b> https://albersonbarbosa.medium.com/ <br>
+<b>DEV.to:</b> https://dev.to/albersonfbarbosa <br>
+<b>Discord:</b> albersonfb#5933
 <!--
 **albersonfbarbosa/albersonfbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
